@@ -6,3 +6,7 @@ Battery-Status. For the battery status, the plugin provides three window events.
 
 there are three different written java per status. I guess you just change a few things here adn there but I'm not entirely sure how the writing works. 
 The thing seems pretty straight forward. Shows the status when a percentage changes or if its plugged in or unplugged.
+
+
+
+// This is for the sake of adding something "new" to my first_Branch so don't mind this part in particular. Also, I'm probably doing this wrong. Its connected to my repository but at the same time it's not so. I don't know. 
