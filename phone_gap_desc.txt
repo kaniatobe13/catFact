@@ -1,0 +1,8 @@
+SplashScreen. So I wasn't entirely sure what a splashscreen is but from what I understand, it literally is a logo or image (something) before you app starts. Since my app isnt really anything important and more of a waste of time, A splashScreen of a cat or logo of a cat or logo of the app of a cat- haven't worked the kinks yet- but to waste time I think it'd work well for my app.
+
+Its a simple one and off or show and hide.
+
+Battery-Status. For the battery status, the plugin provides three window events. Battery status, critical.
+
+there are three different written java per status. I guess you just change a few things here adn there but I'm not entirely sure how the writing works. 
+The thing seems pretty straight forward. Shows the status when a percentage changes or if its plugged in or unplugged.
